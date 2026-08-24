@@ -1,0 +1,4 @@
+external_id,customer_name,email,phone,company
+CUST-0001,Existing Customer,seed.customer1@example.com,+48200000001,Portfolio Company 1
+CUST-NEW-1,New Customer,new.customer@example.com,+48999111222,New Company
+

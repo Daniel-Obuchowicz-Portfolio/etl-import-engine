@@ -1,0 +1,10 @@
+{
+  "name": "Legacy CRM customers",
+  "mapping": {
+    "crm_id": "external_id",
+    "customer_name": "full_name",
+    "mail_address": "email",
+    "telephone": "phone",
+    "company": "company_name"
+  }
+}
